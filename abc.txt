@@ -1,0 +1,2 @@
+New file with modifications and code changes of the above the file
+Hope to learn many more things in Git
